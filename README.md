@@ -48,6 +48,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+![image](https://github.com/hoshini28/Mean-and-Variance/assets/155607150/bcfe859a-1d8a-4e1a-9fcf-69063840e04f)
 
 
 
